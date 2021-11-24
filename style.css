@@ -1,0 +1,44 @@
+
+.image{
+  width: 50%;
+}
+
+.center{
+	text-align: center;
+}
+.font{
+	font-family: 'Be Vietnam Pro', sans-serif;
+}
+.indent-1 {
+	float: left;
+	text-align: center;
+}
+.indent-1 section {
+	text-align: center;
+	width: 15%;
+	float: left;
+	margin: 1em 5%;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #ccc;
+    margin: 1em 5%;
+    padding: 0;
+
+}
+
+.announcementimage{
+	width: 5%;
+    height: auto;
+}
+.announcement{
+	text-align: center;
+}
+.images{
+	vertical-align: middle;
+}
+.imagetext{
+	display:inline-block;
+}
